@@ -13,6 +13,12 @@ and an in-session history panel — tap any history result to reuse it.
 - History list, tap a result to reuse it
 - Light and dark theme (follows the system)
 
+## Clone via SSH
+
+```bash
+git clone ssh://git@ssh.github.com:443/paominthng/Calculator.git
+```
+
 ## Run it
 
 1. Open this folder in Android Studio (Hedgehog or newer).
